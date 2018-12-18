@@ -1,0 +1,13 @@
+/lib
+/tmp
+/data
+/.ipynb_checkpoints
+/__pycache__
+*.bak
+*.csv
+*.h5
+*.npy
+*.txt
+*.xml
+*.model
+*.pickle
